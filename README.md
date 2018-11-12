@@ -2,9 +2,9 @@
 
 As a matter of respect to fellow programmers going through the process of solving problems on [Project Euler](https://projecteuler.net), the programs that I have written in the past to solve selected problems on the website are not made available on this public repository.
 
-However, I have instead provided a list of problems that I have correctly solved below. Editorials for these problems may also be available upon request.
+However, I have instead provided a list of problems that I have correctly solved, as well as reusable functions that were used to solve the problems along the way. Editorials for some of these problems may also be available upon request.
 
-If you are interested in discussing the solutions with me, you are welcome to contact me directly.
+If you are interested in discussing the solutions, you are welcome to contact me directly.
 
 ---
 * [#1   - Multiples of 3 and 5](https://projecteuler.net/problem=1)
