@@ -86,6 +86,8 @@ If you are interested in discussing the solutions, you are welcome to contact me
 ---
 * [#112 - Bouncy numbers](https://projecteuler.net/problem=112)
 ---
+* [#123 - Prime square remainders](https://projecteuler.net/problem=123)
+---
 * [#125 - Palindromic sums](https://projecteuler.net/problem=125)
 ---
 * [#206 - Concealed square](https://projecteuler.net/problem=206)
