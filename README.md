@@ -17,6 +17,7 @@ If you are interested in discussing the solutions, you are welcome to contact me
 ---
 * [#108 - Diophantine reciprocals I](https://projecteuler.net/problem=108)
 ---
+* (*) [#98 - Anagramic squares](https://projecteuler.net/problem=98)
 * (*) [#93 - Arithmetic expressions](https://projecteuler.net/problem=93)
 ---
 * (*) [#83 - Path sum: four ways](https://projecteuler.net/problem=83)
