@@ -16,6 +16,7 @@ If you are interested in discussing the solutions, you are welcome to contact me
 * [#112 - Bouncy numbers](https://projecteuler.net/problem=112)
 ---
 * [#108 - Diophantine reciprocals I](https://projecteuler.net/problem=108)
+* (*) [#107 - Minimal network](https://projecteuler.net/problem=107)
 ---
 * (*) [#98 - Anagramic squares](https://projecteuler.net/problem=98)
 * (*) [#93 - Arithmetic expressions](https://projecteuler.net/problem=93)
