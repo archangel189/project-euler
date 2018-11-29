@@ -9,6 +9,7 @@ If you are interested in discussing the solutions, you are welcome to contact me
 ---
 * [#206 - Concealed square](https://projecteuler.net/problem=206)
 ---
+* [#203 - Squarefree Binomial Coefficients](https://projecteuler.net/problem=203)
 * [#174 - Hollow square laminae II](https://projecteuler.net/problem=174)
 * [#173 - Hollow square laminae I](https://projecteuler.net/problem=173)
 ---
