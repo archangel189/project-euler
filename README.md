@@ -9,6 +9,9 @@ If you are interested in discussing the solutions, you are welcome to contact me
 ---
 * [#206 - Concealed square](https://projecteuler.net/problem=206)
 ---
+* [#174 - Hollow square laminae II](https://projecteuler.net/problem=174)
+* [#173 - Hollow square laminae I](https://projecteuler.net/problem=173)
+---
 * (*) [#125 - Palindromic sums](https://projecteuler.net/problem=125)
 ---
 * (*) [#123 - Prime square remainders](https://projecteuler.net/problem=123)
