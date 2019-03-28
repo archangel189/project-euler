@@ -1,8 +1,8 @@
 # project-euler
 
-As a matter of respect to fellow programmers going through the process of solving problems on [Project Euler](https://projecteuler.net), the programs that I have written in the past to solve selected problems on the website are not made available on this public repository.
+As a matter of respect to fellow programmers going through the process of solving problems on [Project Euler](https://projecteuler.net), the programs that I have written in the past are not made available in this public repository.
 
-However, I have instead provided a list of problems that I have correctly solved, as well as reusable functions that were used to solve the problems along the way. Editorials for some of these problems — marked with an asterisk (*) — are also available upon request.
+I have instead provided a list of problems that have been solved as well as reusable functions used to solve the problems along the way. Editorials for some of these problems — marked with an asterisk (*) — are also available upon request.
 
 If you are interested in discussing the solutions, you are welcome to contact me directly.
 
